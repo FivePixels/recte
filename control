@@ -1,0 +1,9 @@
+Package: com.fivepixels.recte
+Name: recte
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove the accessory view from the Pandora app.
+Maintainer: FivePixels
+Author: FivePixels
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
